@@ -1,0 +1,1700 @@
+{
+ 
+    "product": [
+      {
+        "name": "Marine BizTV",
+        "division": "1" ,
+        "priority": "High",
+        "status": "Active",
+        "description": "Marine BizTV creates a plethora of programs to satisfy every marine enthusiast. While few are just to entertain, others are meant to educate and evaluate the fast developing maritime world. Though, the broad spectrum of programs can be classified into twenty five categories. It does not just end with these since, there is no limit to the mighty blue sea."
+      },
+      {
+        "name": "Web TV",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "BizTV covers various major maritime events across the globe and telecasts it through Web TV and Satellite TV providing an informative platform to the general populace.<br/> Features include :<br/>  - Revolutionary on-line distribution with parallel streaming<br/>  - Efficient and effective interactivity<br/>  - Provides powerful profiling and relationship enhancing opportunities<br/>  - Provides full-fledged support to the satellite channel<br/>  - Ensures reach of the ideas and visions of the satellite channel to the whole world<br/>  - Live updates, informative videos and maritime industry interaction <br/>are its core contributions and Unique video on demand facility. Marine BizTV library has more than 6000 hrs. of infotainment content. It constitutes maritime related programs, information, activities, events, conference, exhibitions, advertisements and product launches from all segments of the maritime sector.",
+        "url": "www.marinebiztv.com"
+      },
+      {
+        "name": "WebTV Subscription",
+        "division": "1",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "A unique subscription is required to access the Web TV, the on-line arm of Marine BizTV. The password contains alphanumeric characters of five(minimum) to fifteen characters (maximum) which are either automatically assigned or created depending on the type of account of the user. This enables the user to access live telecast of programs, archive and business solutions like MViD, SNS, E-STORE, Press Box and Programs Calendar.",
+        "url": "www.marinebiztv.com/subscription"
+      },
+      {
+        "name": "Maritime Visual Directory",
+        "division": "2",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Maritime Visual Directory is the world's first and only visual maritime directory ever made. MVD includes product videos, sales presentations, advertisement, product displays, corporate videos etc and incorporates a  comprehensive list of maritime companies, searchable according to the requirement of the end user. MVD facilitates live video conferencing, where the end user can view products or presentation and converse live to the company representatives through the web directory interface."
+      },
+      {
+        "name": "Maritime Press Box",
+        "division": "2",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Maritime Press Box acts as a direct window exhibiting corporate vista of a company, along with all the latest developments. All promotional materials of a company like Press Releases, E-Brochures, E-Newsletters, Circulars, Catalogues, Presentations, etc can be uploaded.",
+        "url": "www.maritimepressbox.com"
+      },
+      {
+        "name": "Biz Dollar",
+        "division": "2",
+        "priority": "Average",
+        "status": "Not Active",
+        "description": "BizDollar is an on-line business network for MARINERS, where you can maintain existing relationships and create new ones share your experiences, find new business partners etc."
+      },
+      {
+        "name": "Virtual Exhibition",
+        "division": "2",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Virtual Exhibition gives a virtual experience of participating and interacting in an exhibition. The actual exhibition will be virtually exhibited on-line, where people can log in and see the exhibition as it had taken place. It enables corporate and marine enthusiasts to see an exhibition as many times as they want, by logging on to this particular site. Exhibition taking part in any part of the world can be covered through virtual exhibition."
+      },
+      {
+        "name": "Video Archive",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "Video Archive provides a unique searchable database on the complete list of maritime programs the channel has telecast till date. It is an enriching visual library of information on the maritime world. Video archive is a very constructive study material for students aspiring in the maritime field.",
+        "url": "www.video.marinebiztv.com/archives.php"
+      },
+      {
+        "name": "Digi Ship",
+        "division": "2",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Digi Ship gives a complete technical profile and specifications of a sailing vessel using videography and digitalized contents. This application involving high level architecture to create a virtual representation of a ship, is a powerful tool for global vessel trade."
+      },
+      {
+        "name": "Interactive DVD ",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "Events, especially seminars, conferences and technical discussions are often missed by those to whom it matters the most. A specially designed DVD from Marine BizTV with an encyclopedic interactive interface is a dream come true for those who miss crucial events. The DVD has highly interactive content which can be accessed on a computer according to your needs or convenience. Interactive DVD is an effective tool for distributing information to potential clients helping them to: Browse through entire paper presentations, It contains a searchable database and Consists transcription of talks and debates with glossary of terms.Interactive DVDs are an ideal solution to deliver flexible training that requires strong visual communication. They can be configured to be relevant to different target groups or same target group to get a tailored programme hence making the process easier, effective and convenient. Our Interactive DVD solutions give you a virtual experience and allowing you to customize your experience."
+      },
+      {
+        "name": "MILES Course ware",
+        "division": "3",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "MILES Maritime Information and Live Education System is a competent and informative tool for the maritime students worldwide. With an array of wide range of informative Videos Education Materials, MILES couseware consists topics ranging from Marine Engineering to Naval Architecture, technical videos and videos of conference papers presentations."
+      },
+      {
+        "name": "BBTV- Roku",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "Broadband TV involves accessing multimedia content via broadband and viewing it on a TV. Once a customer receives the Marine BizTV box, all they need to do is plug the box to the internet router / modem. Its remote control experience is no different than watching television from your cable or satellite provider!",
+        "url": "www.roku.com/channels/#!details/13534/marine-biztv"
+      },
+      {
+        "name": "Client Relations Management Software",
+        "division": "2",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "CRM offers the tools you need today to know each customer inside and out, and empower every individual in your business to deliver consistent, top-notch customer experiences."
+      },
+      {
+        "name": "Official TV Channel",
+        "division": "1",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "'Official Television Channel' is a fresh concept to help our associates widen the viewer ship visibility of their activities and events which the company wishes to share or publicize to a wider audience."
+      },
+      {
+        "name": "On-line Video Awards",
+        "division": "1",
+        "priority": "Medium",
+        "status": "Active",
+        "description": "On-line video awards are provided to honour the achievements of the experts of the maritime industry. Here, the winners are decided on the basis of their popularity among their target audience."
+      },
+      {
+        "name": "International Technical Advisory Panel",
+        "division": "1",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "International Technical Advisory Panel consists of experts who provide guidance to the organization on every issue under its jurisdiction. The board comprises of members from key sectors of the marine industry from across the globe. The panel best practices in research and analysis for the maritime industry and focuses on business strategy, operations and management. The Board shares its expertise in the field while making strategic decisions."
+      },
+      {
+        "name": "Shoot N Share",
+        "division": "2",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "Shoot 'n' Share aims to promote social and business networking among the entire maritime fraternity through shooting, uploading and sharing of maritime videos, either corporate or entertainment. Videos like annual corporate gatherings, local outings, in-house award ceremonies etc can be shared through this exquisite zone."
+      },
+      {
+        "name": "Events Calender",
+        "division": "4",
+        "priority": "High",
+        "status": "Active",
+        "description": "As variety of maritime events take place each day and the need for a precise maritime calendar becomes important, hence to cater the arising needs Events calender, an on-line encyclopedia of all maritime events was formulated. Event sponsorships, advertisements, booth booking, on-line promotion, event tie- up, visitors pass and much more are open through a single entry in the Events Calendar. The events calendar provides an exclusive list of all maritime happenings across the world, not only the forthcoming events but also the ongoing and bygone ones."
+      },
+      {
+        "name": "Video Dossier",
+        "division": "2",
+        "priority": "Medium",
+        "status": "Active",
+        "description": "Video Dossier is the video coverage of resumes of students, employees, employers and universities in the marine industry, in a more sophisticated way, offering them an increased reach ability. The new concept enables the students/ employer/ employee and universities to present themselves in an advanced way with the powerful aid of the visual media."
+      },
+      {
+        "name": "Ocean Blue",
+        "division": "5",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "Ocean Blue is a marine film festival, organized by Maritime Film Society to host some of the iconic movies with marine theme."
+      },
+      {
+        "name": "Search Engine Optimization",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "To maximize the reach of our customers to their target audience and to expand their markets we give effective Search Engine Optimization (SEO) assistance and solutions. SEO not only ensures accessibility of web pages to the search engines 24x7 but also provides visibility to all products and services of the company as well.SEO done by Software solutions are http://www.ariesmar.com/, http://aimri.in/, http://pacemigration.com.au.",
+        "url": "www.ariesesolutions.com"
+      },
+      {
+        "name": "F Card",
+        "division": "5",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "It is a unique card which can help you enter any festival across the world."
+      },
+      {
+        "name": "Maritime Cultural Olympics",
+        "division": "4",
+        "priority": "Average",
+        "status": "Not Active",
+        "description": "Maritime Cultural Olympics is a cultural extravagance, organized by Marine BizTV, exclusively for Maritime Institutes across the world to patronize cultural harmony and give the youth of today a unique platform to showcase their talents."
+      },
+      {
+        "name": "All Lights Magazine",
+        "division": "6",
+        "priority": "High",
+        "status": "Active",
+        "description": "All Lights is a portal for Films and Film Festivals available both in print and on-line. The portal is developed by a group of film lovers and festival freaks. Lighting the streets of Glitz and Glamour, bringing you closer to the current actions in the world of movies, 'All Lights' provides an insight to the up coming movie ventures around the globe. Throwing light on the technical and creative facets of the 'Magical Lantern', it gives the gist of all the Film Festivals which happens in and around the planet. All Lights is an Official magazine for some of the world's renowned film festivals like European Film Market (EFM), American Film Market (AFM), Cannes International Film Festival and Hong Kong Film art. Delivering its best, All Lights publications are also available in the Academy of Motion Pictures Arts and Science (Oscar) library.",
+        "url": "www.alllightsfilmmagazine.com"
+      },
+      {
+        "name": "Digital CDC",
+        "division": "3",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "Digital CDC is the software version of Continuous Discharge Certificate (CDC) or Seafarers Identification Document, a legal and officially written authenticated paper for a seafarer which contains a record of his entire sea journey."
+      },
+      {
+        "name": "HR Training Video",
+        "division": "19",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "HR training videos covers company policies on discrimination, drugs and alcohol, employee benefits, supervisor training & more."
+      },
+      {
+        "name": "Achiever's Chronicle",
+        "division": "6",
+        "priority": "High",
+        "status": "Active",
+        "description": "Achievers Chronicle is a program designed to honour the individuals who are at the pinnacle of success courtesy their hard work and years of struggle to affirm their foot in the shipping and maritime industry. This inspirational work contains life stories, trials and tribulations of selected eminent personalities who have the potential to inspire the youth of our world."
+      },
+      {
+        "name": "Snake Boat Race",
+        "division": "4",
+        "priority": "Average",
+        "status": "Not Active",
+        "description": "Boat race is one of the traditions followed here in Kerala, as part of branding this water sports Aries wishes to take this event to an international level."
+      },
+      {
+        "name": "on-line Job Diary",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "Digital version of Daily Job Diary."
+      },
+      {
+        "name": "Asset Management Software",
+        "division": "2",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "A full-featured computerized maintenance management system that works best for your organization, including enterprise-wide maintenance management processes and integration of Asset Management, Inventory, Purchasing, Mobile Technology and much more."
+      },
+      {
+        "name": "Purchase Request Software",
+        "division": "2",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "Purchase order tracking software provides easy to use requisitions, reviews and approvals. Download purchasing report."
+      },
+      {
+        "name": "Leave Software",
+        "division": "2",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Leave software helps you submit, approve and manage your leaves."
+      },
+      {
+        "name": "Movie Project Management Software",
+        "division": "2",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Production software for independent film makers, handles budgeting, scheduling, locations, editing notes and film festival submissions."
+      },
+      {
+        "name": "Newsletter Software Sales",
+        "division": "2",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "A feature rich PHP newsletter / mailing list management tool. It offers multiple lists, import, export, attachments, drafts, AJAX, notifications."
+      },
+      {
+        "name": "Accounts Software",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "Accounting software is an application software that records and processes accounting transactions within functional modules such as accounts payable, accounts receivable, payroll, and trial balance."
+      },
+      {
+        "name": "Oscar Consultancy",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "Our Oscar Consultancy wing offers entry level services for Oscar Selections. We deliver submission of movies to Oscar under Best Picture category. It has the same weightage of an entry through Foreign Film Category, which is gone through the countries film federation.",
+        "url": "www.alfilmservices.com"
+      },
+      {
+        "name": "DAM999 Novel",
+        "division": "1",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "DAM999 novel is a multi lingual, literary version of the movie with the same title DAM999."
+      },
+      {
+        "name": "HR Policy Video",
+        "division": "19",
+        "priority": "High",
+        "status": "Active",
+        "description": "The HR Policy of the company is described in this video."
+      },
+      {
+        "name": "International Maritime Club",
+        "division": "3",
+        "priority": "High",
+        "status": "Active",
+        "description": "International Maritime Club (IMC) is a forum for is the continuous and conscious development of the vast maritime industry.The sole aim of the club is the development of the maritime industry through the interaction of all the key players who have a role in its future.",
+        "url": "www.internationalmaritimeclub.com"
+      },
+      {
+        "name": "International Maritime Institute",
+        "division": "3",
+        "priority": "High",
+        "status": "Active",
+        "description": "International Maritime Institute (IMI) is meant for encouraging collaboration between maritime institutes and introducing the students to a rich variety of Audio Visual content of academic value. International Maritime Institute interacts with IMC putting future professionals in touch with senior maritime industry members. Latest news, special advertisement slots and special edition newsletters are provided to the member institutes, with regard to announcements of conferences, events and projects, campaigns, etc. IMI also acts as an on-line organization portal for maritime institutes which has the capacity to be developed as an international approval or standard assessment authority.",
+        "url": "www.internationalmaritimeclub.com"
+      },
+      {
+        "name": "Topless Ships",
+        "division": "7",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Topless Ships will be a new revolution in the field of ship design technology, making these giant vessels economical, faster and safer than before. This never before seen design would provide unparalleled efficiency to the current ships and increase their cost and fuel effectiveness."
+      },
+      {
+        "name": "Maritime Updates",
+        "division": "2",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "Maritime Updates is a popular news portal managed by Marine BizTV which lets you stay updated with latest happenings from various maritime segments along with the most up-to-date maritime events."
+      },
+      {
+        "name": "Oscar Consultancy",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "All Lights Film Services Oscar Consultancy helps film makers 'Go GLOBAL' and embarking them towards their dream journey. The consultancy provides movies/documentaries the deserved exposure at various film festivals across the globe. All Lights Film Services' indulges in rigorous campaigns to help movies get to into the very prestigious 'Oscar Race' A highest honor awarded for excellence in cinema. All Lights Oscar consultancy, also helps film makers to contend for various other prestigious international awards like Golden Globe Awards, Screen Writers Awards, and International Music Awards so on and so forth. All Lights has given its full support to various movies out of which 4 Indian movie projects (DAM999, Saint Dracula, Hou De Jarasa Ushir and Color of Sky) made it to the Oscar qualifying race. All Lights Oscar Consultancy services would help you make your Hollywood dreams come true."
+      },
+      {
+        "name": "All Lights Film Magazine",
+        "division": "6",
+        "priority": "High",
+        "status": "Active",
+        "description": "All Lights is a portal for Films and Film Festivals available both in print and on-line. The portal is developed by a group of film lovers and festival freaks. Lighting the streets of Glitz and Glamour, bringing you closer to the current actions in the world of movies, 'All Lights' provides an insight to the up coming movie ventures around the globe. Throwing light on the technical and creative facets of the 'Magical Lantern', it gives the gist of all the Film Festivals which happens in and around the planet. All Lights is an Official magazine for some of the world's renowned film festivals like European Film Market (EFM), American Film Market (AFM), Cannes International Film Festival and Hong Kong Film art. Delivering its best, All Lights publications are also available in the Academy of Motion Pictures Arts and Science (Oscar) library."
+      },
+      {
+        "name": "Festival Consultancy",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "We deliver International Film Festival Submission consultancy for the movies. Under this package, we take films and submit it in the International Film Festivals outside India.",
+        "url": "www.alfilmservices.com"
+      },
+      {
+        "name": "Party Surveys",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/> - Aries Marine provides solution for Party Surveys from concept stage to its delivery."
+      },
+      {
+        "name": "NRIPA",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "NRIPA (Non Resident Indian Producers Association) is an association formed by a group of potential Non Resident Indians (NRIs) with experience and passion in film production having an operational base at Cochin, Kerala, India.",
+        "url": "www.nripa.biz"
+      },
+      {
+        "name": "Botel",
+        "division": "10",
+        "priority": "High",
+        "status": "Active",
+        "description": "Incorporated as part of Aries consortium, the group took its infant footsteps into the tourism industry by 2005. As part of this voluntary association, the company ventured with its first project to build a state of the art 'BOTEL'. The same was later known to be 'SAFE BOTEL' (Backwater Operated Tourist Entertainment Launch) designated by its sheer resonance in the market among other house boats. The steel framed and finished 'BOTEL' later turned out to be a revolutionary design which bagged a lot of appreciation during the IIBS 2005 held in Kochi. This design was claimed to be an unsinkable one and didn't compromise on the eco friendly character to enhance its scope for tourism."
+      },
+      {
+        "name": "Chundan",
+        "division": "10",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Aries Punnamada Chundan is the 'World's Longest Steel Snake Boat' which has entered the Guinness Book of World Records, Limca Book of World Records and Asia Book of Records. This is yet another innovative creative project from Aries Marine and Engineering Services which stands apart from traditional snake boats. Aries Punnamada Chundan has a length of 144 ft and can accommodate upto141 rowers. The aim of this innovative concept is to create an international market for snake boats as it would make revolutionary changes in world's tourism sector."
+      },
+      {
+        "name": "DAM999 Feature Film",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "DAM999 is the most controversial movie of the year 2011 which was selected for Oscar race 2011 for its social appeal and strong script. The movie is still garnering positive reviews and response and is going strong at various film festival circuits."
+      },
+      {
+        "name": "Saint Dracula 3D",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "Saint Dracula 3D, the First ever 3D movie on Dracula produced by BizTV Network went on to become the most controversial movie of the year 2012."
+      },
+      {
+        "name": "Voyage",
+        "division": "6",
+        "priority": "High",
+        "status": "Active",
+        "description": "Official souvenir booklet containing articles on company's important verticals, technical articles from eminent leaders, and non technical articles on subjects of contemporary interest."
+      },
+      {
+        "name": "Navarasa- Fashion Show",
+        "division": "1",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "‘Navarasa’ as a brand is tailored to form exclusive merchandise to indulge those whose persona embodies the mood of the rasa"
+      },
+      {
+        "name": "Maritime Film Society",
+        "division": "5",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "Maritime Film Society, which is formed by a young group of cinema aficionados, hosted a festival of films with a marine theme - Ocean Blue, where some films which are considered as iconic in the history of cinema were screened. An interactive session on the marine genre of films with some of the leading cineastes and critics were the sidelines of the film festival. Maritime Film Society aims to promote movies and similar footage with a marine theme, and to enhance awareness of, and accessibility to, the art among maritime communities as well as to the general public."
+      },
+      {
+        "name": "Digi Booth",
+        "division": "4",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Digi Booths are uniformly constructed stalls, an ideal exhibition which will unlock the potential of your products to the global market."
+      },
+      {
+        "name": "ShipTek",
+        "division": "4",
+        "priority": "High",
+        "status": "Active",
+        "description": "Ship Tek, the flagship event of Marine  BizTV, started its voyage in 2008. After five successful years and a plethora of new initiatives, Ship Tek is regarded as one of The most anticipated events of the Maritime Industry. Ship Tek is the only international conference with worldwide live streaming. The event provides platform for resourceful business networking, exchange of knowledge, sharing ideas and expertise, unearth new innovative ideas and unleash new milestones in maritime in shipping industry."
+      },
+      {
+        "name": "Boat India",
+        "division": "4",
+        "priority": "High",
+        "status": "Active",
+        "description": "An International Conference on Boating and Yachting which  focuses on new trends and concepts, technology and commerce surrounding the design and construction of boats."
+      },
+      {
+        "name": "NDT Level 4",
+        "division": "4",
+        "priority": "High",
+        "status": "Active",
+        "description": "An International Conference on Non Destructive Testing and Industrial Quality explored the prospects advanced of NDT techniques and served as an informative platform to exchange information on latest technology and innovative ideas in the field of non destructive testing."
+      },
+      {
+        "name": "Submar",
+        "division": "4",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "An International Conference on Submarine cabling and telecommunication featured the relevance and scope of fast growing fields of  submarine cabling, telecommunication, oil and offshore cabling."
+      },
+      {
+        "name": "Offshore Symposium",
+        "division": "4",
+        "priority": "High",
+        "status": "Active",
+        "description": "It is a one-day global meet is aimed at fostering the offshore industry through the exchange of experience and expertise."
+      },
+      {
+        "name": "Techno Maritime Awards",
+        "division": "4",
+        "priority": "High",
+        "status": "Active",
+        "description": "The Techno Maritime Awards are held to recognize the individuals and establishments for techno-maritime achievements."
+      },
+      {
+        "name": "International Maritime Awards",
+        "division": "4",
+        "priority": "High",
+        "status": "Active",
+        "description": "This well celebrated award ceremony pays tribute to the world's largest maritime community, their service partners, and some of the industry's outstanding achievements through specific award categories. Marine BizTV International maritime Awards have become a symbol of celebrations, utilising the sheer power and reach of visual media."
+      },
+      {
+        "name": "Legal Consultancy Cell",
+        "division": "11",
+        "priority": "High",
+        "status": "Active",
+        "description": "Legality of any business lies in the strength of a legal advisor. Considering the pros and cons of a consortium, the Aries group has ventured to form a legal cell for its in house departments and external clients. A highly qualified team of advocates with sheer knowledge and practice in different realms of legal activities shapes this department to be a very efficient and effective one."
+      },
+      {
+        "name": "Medi BizTV",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "MediBiz TV is a 24hr free to air Global Healthcare Satellite Television channel completely dedicated to bring the global medical fraternity under one roof. The medium of this channel will be in english and it would cover 150 countries initially. This channel is promoted by Biz TV Network,who are the producers of two Oscar qualified Hollywood films DAM999 and Saint Dracula 3D. Another promoter of this channel is Aries group,a consortium of 28 independent firms based in different parts of the world such as UAE, Bahrain, Qatar, K.S.A, China, U.S.A, Singapore and India.CEO of this innovative project is Mr.Sohan Roy,Hollywood director and Project Designer with 9 Oscar selections and 23 international awards for his various projects.MediBiz TV presents unique infotainment programs on healthcare sector which are targeted for the General Public as well as Medical Professionals."
+      },
+      {
+        "name": "BizTV Mariner's Cup",
+        "division": "4",
+        "priority": "Medium",
+        "status": "Not active",
+        "description": "BizTV Mariners Cup is a well celebrated cricket tournament organized to provide the corporate a jovial way to recuperate weeks of hectic pressure."
+      },
+      {
+        "name": "Dams- The Lethal Water Bombs",
+        "division": "8",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Dams - The Lethal Water Bombs is a documentary which brings to screen the agony of people living in constant fear of an imminent deluge downstream an ageing dam."
+      },
+      {
+        "name": "World Medi Club",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "World Medi Club is a global platform for various social organisations spread across the globe to share their ideas on development of man kind.It is a complete non profit organisation aims at undertaking different social projects and provide consultancy services to other organisations in the similar line to achieve their goal."
+      },
+      {
+        "name": "ARISE",
+        "division": "6",
+        "priority": "High",
+        "status": "Active",
+        "description": "ARISE is a weekly newsletter of the Aries Group of Companies that carries news on the maritime sector from various parts of the world.It also shares , plans and highligts various inhouse projects of the company.",
+        "url": " "
+      },
+      {
+        "name": "My Maritime",
+        "division": "2",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "My Maritime is a new innovative desktop application from Marine BizTV that makes your search for maritime news easier than ever. The unique features of My Maritime ensure you a faster and effective search, smart indexing never lets you be at sea when you start exploring news with it. It serves as a beacon that guides you through vast oceans of information with main features like News Updates, Programmes, Archive, Events, Find Person/Company, Twitter, and Dictionary. You can search for latest news and programme videos; prepare your programme schedule; tweet with maritime updates; find the contact details of companies and important officials; get a dictionary of words related to maritime world and much more.",
+        "url": " "
+      },
+      {
+        "name": "Marine Contact Management",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "Marine BizTV has its own Customer Relationship Management Software exclusively for the marine community for maintaining a company's interactions with customers, clients and sales prospects. It not only uses the technology to organize, automate and synchronize business processes but also helps those involved with marketing, customer service and technical support.",
+        "url": " "
+      },
+      {
+        "name": "Mobile Website",
+        "division": "2",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Mobile phone is revolutionizing the way the world communicates. Today, for every customer driven organization, it has become inevitable to build a mobile phone platform for business promotion. To cater the needs of the growing demands, our Software division builds Mobile Website (design and development).",
+        "url": "www.graphicsmind.com "
+      },
+      {
+        "name": "Enterprise Resource Planning",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "Our dedicated team of experts provide ERP or Enterprise Resource Planning solutions to integrate internal and external management information across the entire organization. Our ERP solutions results in more efficient, streamlined and cohesive set of business units such as business finance, accounting, purchasing and distribution, material handling and inventory management, service and sales, marketing, strategic business planning and development, manufacturing operations, quality management systems, project management, training and human resource and so forth.",
+        "url": " "
+      },
+      {
+        "name": "Marine City",
+        "division": "12",
+        "priority": "High",
+        "status": "Active",
+        "description": "Marine City is a long cherished dream for promoters of Marine Biztv is conceived as a city exclusively for the mariners all over the world where they can share, learn and interact with fellow mariners.",
+        "url": " "
+      },
+      {
+        "name": "Maritime Corporate Quiz",
+        "division": "4",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "Backed with fun and trivia questions, Maritime Corporate Quiz served as a platform for maritime corporates to show how charged they are on Maritime business.",
+        "url": " "
+      },
+      {
+        "name": "3M Summit",
+        "division": "4",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "Middle East Marine and Maritime Summit (3M summit) is a grand maritime feat attracting top maritime personalities including mariners, naval architects, leading maritime entrepreneurs, offshore personnel and seafarers.",
+        "url": " "
+      },
+      {
+        "name": "Event Management Services",
+        "division": "4",
+        "priority": "High",
+        "status": "Active",
+        "description": "BizTv's event management team covers and partners with various maritime events across the globe and telecast them through Web TV and Satellite TV providing an informative platform to the general populace.",
+        "url": " "
+      },
+      {
+        "name": "Global Medical Institute",
+        "division": "1",
+        "priority": "High",
+        "status": "Not Started",
+        "description": "Global Medical Institute is a consortium of various medical institutes all over the world.This is a global platform which helps different institutes to share their innovative projects,products and services and act as a single window for a medical professional who is looking for a better education in medical field.",
+        "url": " "
+      },
+      {
+        "name": "Production House",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "BizTV Network a unique and established  movie production house which  manages all production processes like creation, production, distribution, licensing and marketing all forms of creative content from script to screen.",
+        "url": " "
+      },
+      {
+        "name": "Medical Education- on-line",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "Continuing Medical Education Program or CME is a new project of MediBiz TV with Indian Medical Association for Doctors taken membership in IMA.MediBiz TV will provide world class training materials for the members of IMA and jointly issue participation certificates to Doctors which fills their mandatory hours of CME every year.",
+        "url": " "
+      },
+      {
+        "name": "Patent Agent",
+        "division": "3",
+        "priority": "High",
+        "status": "Active",
+        "description": "We, as Patent Agents help you get exclusive rights to your invention preventing others from making, using, selling, or distributing the patented invention without permission.",
+        "url": " "
+      },
+      {
+        "name": "Trademark Agent",
+        "division": "3",
+        "priority": "High",
+        "status": "Active",
+        "description": "A trademark help us to recognize a particular product or service from others.",
+        "url": " "
+      },
+      {
+        "name": "Distant Education Program",
+        "division": "19",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "The concept is that one teacher will simultaneously teach many students from various centres across the world.These lectures are streamed through internet to variuos Tele Classrooms setup at many places across the world. AIMRI has got a website which will be help students across the world to login and study , raise queries and clarify  doubts. Exams can also be done on-line using the website.",
+        "url": " "
+      },
+      {
+        "name": "on-line Visual Media Tutorial",
+        "division": "19",
+        "priority": "High",
+        "status": "Active",
+        "description": "Visual media system provides a concrete frame of reference making the learning process faster and efficient. With the introduction of visual media clarity of the concept increases and understanding becomes faster by 5 to 10 times.AIMRIs innovative visual media based education system utilizes Hi - Tech 7.1 surround system theatres for teaching.",
+        "url": " "
+      },
+      {
+        "name": "Efficiency Management Software",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "On-line job dairy for computing the efficiency of employees.",
+        "url": " "
+      },
+      {
+        "name": "Aries International Medical Research Institute",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries International Medical Research Institute is a unique concept of MediBiz TV which provides world class new generation Medical visual training in all the fields related with health care sector.Apart from the audio visual aids and highly sophisticated class rooms,we provides all the infrastructure for a medical professional to continue his research works and necessary assistance for obtaining patent for his thesis.We also assures professional placement for the candidate anywhere in the world through our educare cell.",
+        "url": " "
+      },
+      {
+        "name": "Branding and Promotions",
+        "division": "8",
+        "priority": "Medium",
+        "status": "Active",
+        "description": "We undertake all kind of Branding and Promotions for the individuals, films, companies, products and services.",
+        "url": "www.ariescreations.com "
+      },
+      {
+        "name": "Geetanjali",
+        "division": "4",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Geetanjali is a Musical evening with Prince Rama Varma organized by Aries Interiors and supported by BizTV events for carnatic music lovers in the UAE.",
+        "url": " "
+      },
+      {
+        "name": "Web Application Development",
+        "division": "2",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "From custom programming services to Hi - end technology program they develop applications and software for customers and help them maintain it through years."
+      },
+      {
+        "name": "Waves Publication",
+        "division": "6",
+        "priority": "High",
+        "status": "Active",
+        "description": "Waves is the Official souvenir of the Middle East Alumni of Ship Technology (MAST).",
+        "url": "http://mastechuae.com/ "
+      },
+      {
+        "name": "Corporate Video Production",
+        "division": "8",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "Corporate Video Production team creates visual corporate communication materials commissioned primarily for promoting products/services or company profiles, training videos and information videos.",
+        "url": " "
+      },
+      {
+        "name": "Advertisement Production",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "Advertisement Production team  creates, plans, handles and executes promotional videos, corporate videos, advertisements for clients.",
+        "url": " "
+      },
+      {
+        "name": "Personality Videos",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "This inspirational work contains life stories, trials and tribulations of selected eminent personalities who have the potential to inspire the youth of our country.",
+        "url": " "
+      },
+      {
+        "name": "Movie Sales Outfit",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "We help our clients sell their movies to their potential clients by helping them get in touch with some premier international sales agents.",
+        "url": " "
+      },
+      {
+        "name": "3D Website",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "Stereoscopic 3D website for ideas and concepts. The websites include http://www.damthemovie.com/3d/,http://www.thenavarasa.com/.",
+        "url": "www.ariesesolutions.com"
+      },
+      {
+        "name": "Blue Ray Mastering",
+        "division": "8",
+        "priority": "High",
+        "status": "Not active",
+        "description": "Converting normal DVD view to a Blu-ray Disc technology for viewing High Definition (HD) media.",
+        "url": " "
+      },
+      {
+        "name": "Color Correction",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "Color grading or colour grading is the process of altering and enhancing the color of a motion picture, video, or still image either electronically, photo-chemically or digitally.",
+        "url": " "
+      },
+      {
+        "name": "Sailor's Diary",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "Sailor's Diary is a product of DAM999 where in the first time a production company has introduced a character of a movie through a blog written in the real world.",
+        "url": " "
+      },
+      {
+        "name": "DAM999 Script",
+        "division": "1",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "DAM999 movie script was selected to be acquired by the Oscar library even before the release of the movie.",
+        "url": " "
+      },
+      {
+        "name": "Navarasa Ice-cream Flavour",
+        "division": "1",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Navarasa Ice-cream flavour is a merchandise created as part of branding the movie DAM999.",
+        "url": " "
+      },
+      {
+        "name": " Navarasa Clothing Lines",
+        "division": "1",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "Navarasa Clothing line is a merchandise created as part of branding the movie DAM999.",
+        "url": " "
+      },
+      {
+        "name": "Navarasa Jewellery Collections",
+        "division": "1",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "Navarasa Jewellery collection is a merchandise created as part of branding the movie DAM999.",
+        "url": " "
+      },
+      {
+        "name": "Movie Production and Project Management",
+        "division": "1",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "BizTV network movie production and project management division takes up a movie script from paper to screen and handles all related processes.",
+        "url": " "
+      },
+      {
+        "name": "Research and Development",
+        "division": "3",
+        "priority": "High",
+        "status": "Active",
+        "description": "Research and Development Team, provides you feasibility reports, market analysis and designs innovative ideas and concepts which helps you get an insight about the current trends. R and D helps you make the right choice enhancing the success rate of your products and services in the market.",
+        "url": " "
+      },
+      {
+        "name": "International Boating Awards",
+        "division": "4",
+        "priority": "High",
+        "status": "Active",
+        "description": "International Boating Awards 2008 honors the best of the boating and yachting industry.",
+        "url": " "
+      },
+      {
+        "name": "Content Production/Editing",
+        "division": "8",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "We provide our expertise for both content production and editing.",
+        "url": " "
+      },
+      {
+        "name": "Invoice Software",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "A handy tool for consistently producing professional invoices quickly, cheaply and reliably. Export to PDF, email, fax, etc.",
+        "url": " "
+      },
+      {
+        "name": " IMC Hall",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "We rent the space for different events, seminars, meetings and trainings.",
+        "url": "www.ariescreations.com "
+      },
+      {
+        "name": " Ocean Blue Theatre",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "40 seating capacity, 12feet x 7feet screen, 3D projector, 7.1 channel audio, Playback supporting wide range of formats.",
+        "url": " "
+      },
+      {
+        "name": " Studio",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "Dubbing, Pre-mixing, Voice-over recording, Sound Engineering.",
+        "url": " "
+      },
+      {
+        "name": " Post Production",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "Complete range of post production facilities for Film and Video production.",
+        "url": " "
+      },
+      {
+        "name": "Bulk Mailing Promotions",
+        "division": "3",
+        "priority": "High",
+        "status": "Active",
+        "description": "With the advent of mobile facilities across the globe, Bulk SMS promotion facility facilitates a greater and faster reach to your target audience providing them all the information they need in a jiffy.",
+        "url": " "
+      },
+      {
+        "name": " Bulk SMS Promotions",
+        "division": "3",
+        "priority": "High",
+        "status": "Active",
+        "description": "For maximum promotion of your poducts and services, Bulk Mailing promotion facility helps you to get a greater reach to your target audience.",
+        "url": " "
+      },
+      {
+        "name": " Website development,design and management",
+        "division": "2",
+        "priority": "Medium",
+        "status": "Active",
+        "description": "The trained and dedicated software team develops original and well conceived websites for clients to provide successful web presence. They not only design an effective representation of a company on the web but also help them to maintain the website and update it on regular basis as per client requirement.",
+        "url": " "
+      },
+      {
+        "name": " HR Certification Courses",
+        "division": "19",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "The company has come up with AIMRI certification program for HR audit. Those companies who are not organised in Human resource management, AIMRI , will do the Audit, implement changes and certify them.",
+        "url": " "
+      },
+      {
+        "name": " Video Production- Events/Film Festivals Campaign",
+        "division": "8",
+        "priority": "Medium",
+        "status": "Active",
+        "description": "Multi-cam. live switching.",
+        "url": " "
+      },
+      {
+        "name": " Advertisement Spots- Sat TV",
+        "division": "1",
+        "priority": "Medium",
+        "status": "Active",
+        "description": "We have special advertising spots for our clients in our SAT TV",
+        "url": " "
+      },
+      {
+        "name": " Advertisement Spots- Website",
+        "division": "1",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "on-line repository for Corporate Ads and Videos.",
+        "url": "  "
+      },
+      {
+        "name": " Banner Advertisement",
+        "division": "1",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "Banner ad is a form of on-line advertisement on the Internet  which  entails embedding an advertisement in a web page.",
+        "url": " "
+      },
+      {
+        "name": " Featured Video",
+        "division": "1",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "Videos featured for event organizers / companies for a particular time period.",
+        "url": " "
+      },
+      {
+        "name": "Internet Provisioning and Billing",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "An integrated suite of tools providing billing, reseller billing,customer care, provisioning, customer self management, prepaid cards, authentication, and much more.",
+        "url": " "
+      },
+      {
+        "name": "Motion Graphics",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "High-end 3D and 2D Animations.",
+        "url": " "
+      },
+      {
+        "name": "Legal Claims for DAM999",
+        "division": "11",
+        "priority": "High",
+        "status": "Active",
+        "description": "Legality of any business lies in the strength of a legal advisor. Considering the pros and cons of a consortium, the Aries group has ventured to form a legal cell for its in house departments and external clients. A highly qualified team of advocates with sheer knowledge and practice in different realms of legal activities shapes this department to be a very efficient and effective one. This department alone is a versatile player that deals with different industrial legality to ensure that the group functions as a responsible and rational being in the society. The Aries legal department has always played its role to ensure that the contracts the company enters into for a pin to plane is legally obliged. The department also endures to extend a complete legality for all its business in terms of al its civic liabilities inclusive of the tax norms and immigration services. A complete summation of legal solutions for all its in-house departments and external clients is just a briefing about this department.",
+        "url": " "
+      },
+      {
+        "name": "Insurance Claim for DAM999",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "The legal claim cell is said to protect the intellectual rights of the movie DAM999.",
+        "url": " "
+      },
+      {
+        "name": "Short Term Training Courses",
+        "division": "19",
+        "priority": "High",
+        "status": "Active",
+        "description": "Value addition/ CPD courses has become a need of the market today. Since AIMRI being part of Aries Group has got immense expert man power to conduct short term courses which is need of the industry today.",
+        "url": " "
+      },
+      {
+        "name": "Dip Ing/Dip Eng",
+        "division": "19",
+        "priority": "High",
+        "status": "Active",
+        "description": "AIMRI conducts courses of Naval Architecture/Ship Building/ Ship Inspection/Survey with a time period of one year. This courses will be done after doing requirement analysis from employer. Six months of intern-ship which is part of curriculam will make AIMRI students stand alone and make them job ready for the Industry.",
+        "url": " "
+      },
+      {
+        "name": "Doctoral Research",
+        "division": "19",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "AIMRI has got an Industrial Research Program which will done by people who is having industry experience. This can be carried out during the career and this will differ from academic research mainly because this is application oriented program which aims contributions towards the industry.",
+        "url": " "
+      },
+      {
+        "name": "Platinum Passwords Distribution IMC",
+        "division": "3",
+        "priority": "High",
+        "status": "Active",
+        "description": "Platinum passwords have been designed to tailor the needs of our exclusive IMC members. This password provides them access to all the members of the club facilitating easy convergence and interaction.",
+        "url": " "
+      },
+      {
+        "name": "Placement Cell- AIMRI",
+        "division": "19",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "The most important issue in an industry is proposing right man power for the right job. With support from Aries group AIMRI can make a solution for this problem and can also offer adequate training if required to make them job ready for an employer as per their requirements and criteria.",
+        "url": " "
+      },
+      {
+        "name": "On-line Promotions",
+        "division": "8",
+        "priority": "Average",
+        "status": "Active",
+        "description": "We do on-line promotions for different regional, national and international projects using all promotional on-line platforms including social media.",
+        "url": " "
+      },
+      {
+        "name": "Event Media Partnership - MediBiz TV/ Marine Biz TV",
+        "division": "4",
+        "priority": "Medium",
+        "status": "Active",
+        "description": "BizTV events dominates the maritime / medical  sector by providing media partnership to  various events to facilitate and create new business opportunities and associations.",
+        "url": " "
+      },
+      {
+        "name": "Public and Media Relations",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "We undertake PR activities for individuals, films, companies, products and services.",
+        "url": " "
+      },
+      {
+        "name": "Documentary on Nuclear Bombs",
+        "division": "8",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "It is a documentary which ponders on the fact that when energy in nature is present in abundance it really right to declare Nuclear to be the most viable source of energy.",
+        "url": " "
+      },
+      {
+        "name": "Offshore DVD Sales- DAM999",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "International Sales of DAM999 Theatrical, DVD, Satellite, Dubbing and Remaking rights.",
+        "url": "www.damthemovie.com "
+      },
+      {
+        "name": "Medi City",
+        "division": "1",
+        "priority": "High",
+        "status": "Not Started",
+        "description": "Medi City is a prestigious city project by MediBiz TV which will be the centrepiece of Medical Business,education and well-being centre for the entire medical community.Apart from comprising industrial, commercial, residential and leisure facilities, the medical city will have advance research and training facilities to support various aspects of healthcare sector.",
+        "url": " "
+      },
+      {
+        "name": "E-Commerce Solutions",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "E-innovations targets total maritime e-commerce solutions such as on-line Auctions, Pay per view, Marine shares and investments, Current Rules and regulations, Events Calendar, Maritime Visual Directory, Shoot 'n Share, Biz."
+      },
+      {
+        "name": "Placement Consultation",
+        "division": "19",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "AIMRI placement consultation wing will act like a bridge for students who want to pursue career and studies abroad.",
+        "url": " "
+      },
+      {
+        "name": "Book Launch",
+        "division": "8",
+        "priority": "Low",
+        "status": "Active",
+        "description": "We can take events like book launches for external clients.",
+        "url": " "
+      },
+      {
+        "name": "3D Censorship",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "We offer complete technical support right from blu-ray writing to 3D projection of your film in front of censor board.",
+        "url": " "
+      },
+      {
+        "name": "Cricket Prediction Software",
+        "division": "2",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "The ultimate platform of Cricket networking, through a rich gaming experience.",
+        "url": " "
+      },
+      {
+        "name": "Auction- Movie Dress Ebay",
+        "division": "8",
+        "priority": "Medium",
+        "status": "Active",
+        "description": "Sales of costumes used in different movies, for auction through ebay.",
+        "url": " "
+      },
+      {
+        "name": "Market Screening- DAM999",
+        "division": "8",
+        "priority": "High",
+        "status": "Active",
+        "description": "We can do the Marketing of DAM999 movie in the potential client areas.",
+        "url": "www.damthemovie.com"
+      },
+      {
+        "name": "Institute Website",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "Learning and course management solutions.",
+        "url": "www.aimri.in "
+      },
+      {
+        "name": "CEO Websites",
+        "division": "2",
+        "priority": "High",
+        "status": "Active",
+        "description": "CEO's personal websites.",
+        "url": "www.sohanroy.com "
+      },
+      {
+        "name": "Medical Tourism",
+        "division": "1",
+        "priority": "Medium",
+        "status": "Not Active",
+        "description": "MediBiz TV has exclusive facility to guide those international tourists who like to mix travel with health. MediBiz TV's tourist destinations delivers quality holiday health packages which renovates body and mind in a traditional way.",
+        "url": " "
+      },
+      {
+        "name": "Health Card",
+        "division": "1",
+        "priority": "High",
+        "status": "Not Started",
+        "description": "MediBiz Health card offers premium health services including health insurances and health check-ups in a very low package price.MediBiz helps common man to easily identify the best in this sector in competitive price.",
+        "url": " "
+      },
+      {
+        "name": "Company Events and DVD Sales",
+        "division": "4",
+        "priority": "High",
+        "status": "Active",
+        "description": "BizTV Events dominates the maritime sector in not only providing media partnership to various events but also in organizing world class events to facilitate and create new business opportunities and associations.",
+        "url": " "
+      },
+      {
+        "name": "Home Theatre",
+        "division": "13",
+        "priority": "High",
+        "status": "Active",
+        "description": "Specialized in transforming your unique private space (big or small) to a splendid Home Theatre.",
+        "url": " "
+      },
+      {
+        "name": "Specially Designed Wardrobes",
+        "division": "13",
+        "priority": "High",
+        "status": "Active",
+        "description": "Stylish, modern and Affordable wardrobe to create a clutter free and well groomed space.",
+        "url": " "
+      },
+      {
+        "name": "Kitchen Cabinets",
+        "division": "13",
+        "priority": "High",
+        "status": "Active",
+        "description": "Sleek and classy kitchen cabinets, appliances and accessories to suit your needs.",
+        "url": " "
+      },
+      {
+        "name": "3D Designing Training",
+        "division": "13",
+        "priority": "Low",
+        "status": "In Active",
+        "description": "We provide special training to help you create 3D designs with our expert led tutorials.",
+        "url": " "
+      },
+      {
+        "name": "3D Design",
+        "division": "13",
+        "priority": "Low",
+        "status": "Active",
+        "description": "Through our 3D design we give our clients a futuristic outlook to their space providing them a better idea to design their dream space according to their needs.",
+        "url": " "
+      },
+      {
+        "name": "Landscaping",
+        "division": "13",
+        "priority": "Average",
+        "status": "In Active",
+        "description": "Aries Interiors landscaping activities help our clients modify the visual features of your land into an extraordinary space.",
+        "url": " "
+      },
+      {
+        "name": "Sculpting",
+        "division": "13",
+        "priority": "Average",
+        "status": "In Active",
+        "description": "Aries Interiors division are experts in creating exemplary carved models and antique pieces which can be perfectly blended with your interiors.",
+        "url": " "
+      },
+      {
+        "name": "Special Bar Counters",
+        "division": "13",
+        "priority": "Average",
+        "status": "Active",
+        "description": "We handle Bar and Counter décor and design to add buzz to all your party.",
+        "url": " "
+      },
+      {
+        "name": "Wall Papers",
+        "division": "13",
+        "priority": "High",
+        "status": "Active",
+        "description": "From contemporary, traditional, modern, chick to elegant we have all kinds of wallpapers to add freshness and style to your space.",
+        "url": " "
+      },
+      {
+        "name": "Special Art Works",
+        "division": "13",
+        "priority": "Average",
+        "status": "Active",
+        "description": "Add a special artistic touch through our Artwork design to personalize your unique space.",
+        "url": " "
+      },
+      {
+        "name": "Product Commercialisation and Patency",
+        "division": "19",
+        "priority": "High",
+        "status": "Not Active",
+        "description": " AIMRI research and design division with immense experience and potential will take an idea into International platform. AIMRI will also help in taking patency for the product if required.",
+        "url": " "
+      },
+      {
+        "name": "Class Room Rentals",
+        "division": "19",
+        "priority": "High",
+        "status": "Not Active",
+        "description": "AIMRI believes in providing the best and optimum facilities for training and mentoring people. Our office environment and work floor reflects this outlook. AIMRI gives a chance for reputed trainers/institutes outside to use AIMRI classroom and visual media training facilities.",
+        "url": " "
+      },
+      {
+        "name": "Marine",
+        "division": "14",
+        "priority": "High",
+        "status": "Active",
+        "description": "  - CAP, CAS, URS, Intermediate, Special and Annual Surveys <br/>  -Class Entry and Renewal Surveys <br/>  - DNV NAUTICAS Surveys <br/>  - Steel Estimation, Repair Plan, and Dry Dock Specification <br/>  - Pre purchase Hull Inspection <br/>  - Voyage/Rafting Surveys <br/>  - Pit Mapping Surveys <br/>  - Visual Inspection and Close Up Surveys <br/>  - Pipeline Inspection <br/>  - Coating Inspections and Calculations <br/>  - Rope Access Inspection with CCTV <br/>  - Scaffolding and Steel Estimation <br/>  - Structural Integrity Management System(SIMS) <br/>  -Condition Monitor and Intrinsically safe cameras <br/>  -Hull UTM survey for all types of ships ,boats and barges",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Offshore",
+        "division": "14",
+        "priority": "High",
+        "status": "Active",
+        "description": "  - Hull and Leg inspections as per class/client requirements <br/>  - Pipeline Gauging including HP Lines <br/>  - Periodical Surveys for Offshore Units <br/>  - Steel Renewal Sequence Plan for Refurbishments/Repair projects <br/>  - Steel Supervision during Refurbishments, Repairs and Conversions <br/>  - Structural Integrity Survey of Platform and rigs <br/>  -Periodical Corrosion Monitoring of pipelines-Pil and gas <br/>  -Conditional assessment surveys- Structural and Coating",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Inspection Services",
+        "division": "15",
+        "priority": "High",
+        "status": "Active",
+        "description": "Our Rope Access Inspection Services includes:<br/>  - UTM surveys with Cyclops <br/>  - Close Visual Inspections <br/>  - Aerial Surveys <br/>  - Non Destructive Testing <br/>    a. Magnetic Particle Inspections <br/>    b. Ultrasonic-Flaw Detection, Thickness Gauging <br/>    c. Liquid Penetrant Inspections <br/>    d. Eddy Current Inspections <br/>  - Liquid Penetrating Inspection <br/>  - Eddy Current Inspection <br/>  - Baseline Survey <br/>  - Risk based Inspection <br/>  - Hull Integrity Surveys <br/>  - Structural Surveys and Condition Monitoring <br/>  - Lifting Surveys and Inspections <br/>   - Dropped Object Surveys <br/>  - Derrick Survey and Repair <br/>  - Flare Stack/Broom Inspections <br/>  - Riser/ Well Head Inspections <br/>  - Structural Integrity Inspections <br/>  - Pipeline Inspections <br/>  - Thermography Surveys.",
+        "url": "www.ariesmar.com "
+      },
+      {
+        "name": "Structural Maintenance Services",
+        "division": "15",
+        "priority": "High",
+        "status": "Active",
+        "description": "Our Rope Access Structural Maintenance Services includes:<br/>  - Corrosion Control Services <br/>    a. High Pressure Coating Removal and Application <br/>    b. Anode Installation/Replacements <br/>  - Welding and Fabrication Services <br/>  - Blating and Coating <br/>  - Rigging and Lifting Services <br/>  - Jack up Leg Repairs <br/>  - Installation of Aircraft Warning lights <br/>  - Bolt tightening and Torquing <br/>  - Insulation Installation and Repairs <br/>  - Structural Installation on High Rise buildings <br/>  - Derrick repairs/ Dismantling <br/>  - Electrical Installation and Maintenance <br/>  - Flare tip Removal and Maintenance <br/>  - Steel Works <br/>  - Piping and insulations <br/>  - Signage and marking services <br/>  - HP Washing and Cleaning <br/>  - Bridge Surveys/Repairs and Maintenance <br/>  - Installation and Commissioning of Hydraulic lines",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Conventional NDT",
+        "division":  "16",
+        "priority": "High",
+        "status": "Active",
+        "description": "- Liquid Penetrant Test (PT) & Magnetic Particle Test (MT)  <br>- Ultrasonic Test (UT)  <br> - Radiography (Gamma Ray, Crawler RT and X-Ray)  <br> - Heat Treatment-Post Welt(PWHT)/Stress Relieving <br> - Visual Test (VT)  <br> - Leak Test (LT)  <br> - Positive Material Identification (PMI) <br> - Vacuum Box Leak Testing",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Advanced NDT",
+        "division":  "16",
+        "priority": "High",
+        "status": "Active",
+        "description": "- Eddy Current (ET) <br/>- Internal Rotating Inspection System (IRIS) <br/>- Remote Field Eddy Current Testing (RFET) <br/> - Near Field Testing (NFT) <br/>- AUT-TPFD/Phased Array  <br/> - Digital Radiography  <br/>- MFL Tube/Pipe Inspection  <br/>- MFL Wire Rope Inspection  <br/>- MFL Storage Tank Inspection (3D)<br/>- Long Range UT  <br/>- ACFM  <br/>- Ultrasonic leak detection /Hatch cover leak test  <br/>- Infra-red Thermography  <br/> - Endoscopy / Videos copy <br/>- Pulsed Eddy Current(PEC) <br/>- Acoustic Emission Testing  <br/>- SLOFEC <br/>- Magnetic flux Leakage(MFL-Tube/PLates).",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Oil Country Tubular Goods Inspection",
+        "division":  "16",
+        "priority": "High",
+        "status": "Active",
+        "description": " - Rig Inspection <br/> - Drill pipe/Tubular Inspection <br/> - EMI Inspection <br/> - Visual Tube Body/ tread Inspection and OD gauge <br/> - Derrick and Mast Inspection <br/> - Rope Access Inspection.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Lifting Equipment Inspection and Looser Gear Survey",
+        "division":  "16",
+        "priority": "High",
+        "status": "Active",
+        "description": "- LOLER Inspection and Certification for Lifting Equipment and Lifting Machines <br/> - Load testing of Derricks, Life Boat Davits systems, Offshore/Land Rigs, Vessel and Barges <br/>-Load testing Inspection of all Cranes including Crawler,Hydraulic Mobil, Overhead Gantry and Tower Cranes. <br/> - Load testing of Offshore Cranes and Barge Cranes<br/>- Inspections of Lifting Tools/Gears <br/> - On-site / Off-site Inspection of Pad Eyes <br/> - Inspections and Certification of Containers, Offshore Baskets, Cargo Baskets. <br/> - Bollard Testing <br/> - Ship Lift(Wire rope) Inspection <br/> - Wire rope inspection and certification by non-destructive testing(Magnetic Flux Leakage) method <br/> - Professional Proof load Testing and Monitoring for Cranes <br/> - Manufacturer Crane Inspection /Commissioning and Certification <br/> - Third Party Inspection  of Forklift Trucks, Lorry mounted Cranes <br/> - Critical Lift planning and supervision <br/> - Periodic Inspections of Lifting Equipment and Lifting Accessories  <br/> - Condition monitoring of Lifting Equipment and Lifting Accessories <br/> - Commissioning Inspections of Cranes <br/> - Testing and Certification of Cradles <br/> - Calibration of test weights and certification.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Third Party Inspection Services",
+        "division":  "16",
+        "priority": "High",
+        "status": "Active",
+        "description": "  - Resident inspection <br/>  - Construction Inspection and Testing <br/>  - Pipe Mill Inspection <br/>  - Dimensional (Linear/Geometrical) Inspection <br/>  - API (510/570/653) Inspection <br/>  - Vendor Inspection <br/>  -Stage Inspection <br/>  -Packaging Inspection.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Destructive Testing",
+        "division":  "16",
+        "priority": "High",
+        "status": "Active",
+        "description": "ARIES Mechanical Testing Services provide a comprehensive range of Mechanical and Metallurgical analysis of the materials. We measure strength and ductility of the material under various conditions such as temperature, tension, compression, impact, load etc. Our specialized service includes on-site material composition analysis with portable 'PMI', OES (to detect carbon and vacuum elements) enabling fast analysis and quick verification on site. All elements including Carbon, P, S, B, Sn etc. can be precisely analyzed at various conditions . The chemical analysis of PIPES, PLATES, RODS, VALVES, HARDWARE, STORAGE TANKS, TURBINES, PRESSURE VESSELS, GENERATOR, HARDWARE, SPARE PARTS etc. can be done at site very easily.<br/>Applications <br/>- Failure analysis <br/>- QA certification <br/>- Verification of certificates <br/>- Weld process/procedure qualification <br/>- New product testing.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Destructive Testing and Chemical analysis",
+        "division":  "16",
+        "priority": "High",
+        "status": "Active",
+        "description": "- Tensile Test <br/>- Charpy Impact Test <br/>- Bend Test <br/>- Vickers Hardness <br/>- Brinell Hardness <br/>- Rockwell Hardness test <br/>- Fracture test <br/>- Flattening test <br/>- Macro Examination <br/>- Micro Examination <br/>- Chemical analysis (OES) (On-site and Lab) <br/>- Inter-granular Corrosion Testing (IGCT) <br/>- HIC Test <br/>- Replica metallurgy (On-site and Lab) <br/>- Ferrite Test (On-site and Lab)  <br/>- Surface roughness test (On-site and Lab) <br/>- Paint pull off test (On-site and Lab)  <br/>- Salt contamination test (On-site and Lab).",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Analysis of Fixed Offshore Platforms",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  - Analysis of Fixed Offshore Platforms.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Self Elevating Units",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  - Design and Analysis of Self Elevating Units.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Design and Analysis of Topsides, Helidecks etc.",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  -Design and Analysis of Topsides, Helidecks etc.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Reassessment of Existing Offshore Oil Platforms, Jackup",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  -Reassessment of Existing Offshore Oil Platforms.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Rigs, Semisubermisibles structures",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  -  Rigs, Semisubermisibles.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Global Analysis of floating",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  -Global Analysis of floating structures.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Launching Analysis",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  - Launching Analysis.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Fatigue Analysis",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  -Fatigue Analysis.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Riser Analysis",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  -Riser Analysis.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Finite Element Analysis",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  - Finite Element Analysis.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Load out and Transportation Analysis",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  - Load out and Transportation Analysis.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Grillage and Sea Fastening Arrangements",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  - Design of Grillage and Sea Fastening Arrangements.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Rigging and Lift point Designs",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  -Installation Aids, Rigging and Lift point Designs.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Transportation and Installation Engineering",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  - Independent Review of Transportation and Installation Engineering.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Project Engineering Support at Fabrication Yard",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  - Project Engineering Support at Fabrication Yard.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Stability Analysis",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  - Stability Analysis (Intact and Damage).",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Mooring Analysis",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  - Mooring Analysis.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Loading Conditions Ballasting Procedures",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include: <br/>  -Loading Conditions Pre-load/Ballasting Procedures.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Longitudinal Strength",
+        "division":  "17",
+        "priority": "High",
+        "status": "Active",
+        "description": "Aries Offshore Engineering is an offshoot division of Aries Marine, largest ISO 9001-2008 certified design and consultancy firm based in Sharjah. It is dedicated to cater to the needs of clients in oil and gas sector by offering specialized services and advanced analysis techniques for offshore structures. The engineering team which specializes in delivering design solutions comprises of Offshore Structural engineers, Naval Architects, Marine Engineers, Electrical Engineers and Project Managers. The Engineering team is proficient in the latest software's available in industry at various phases of design and engineering.<br/> Our Engineering Capabilities include:<br/>   - Longitudinal Strength.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Offshore Engineering",
+        "division": "18",
+        "priority": "High",
+        "status": "Active",
+        "description": "Offshore Engineering caters to the engineering, analysis and drawing needs of the oil and gas sector. We offer specialized services and advanced analysis techniques for offshore and onshore structures of the oil and gas industry. We specialize in delivering design solutions from specific small tasks to complete engineering packages. We utilise the most advanced and up-to-date software's prevalent in the industry in carrying out our analysis works. Our expertise covers Structural Design and Analysis, Design Calculations, Concept Designs, Conversions, Engineering and Project Management.<br/> - Design and Analysis of:<br/>  - Analysis of Fixed and Floating offshore Platforms <br/>  - Design and analysis of Self elevating units <br/>  - Design and analysis of Topsides, Helidecks etc <br/>  - Reassessment of existing offshore oil platforms, Jack up Rigs, Semisubmersibles, etc. <br/>  - Global Analysis of Floating Structures <br/>  - Launching Analysis <br/>  - Fatigue Analysis <br/>  - Riser Analysis <br/>  - Load Out and Transportation Analysis including design of Grillage and Sea fastening arrangements <br/>  - Installation Aids, Rigging and Lift Point Designs <br/>  - Project Engineering support at Fabrication yard <br/>  - Stability Analysis (Intact and Damage ) <br/>  - Mooring Analysis <br/>  - Finite element analysis <br/>  - Independent review of Transport and Installation Engineering <br/>  - Loading conditions and Pre-load/Ballasting procedures <br/>  - Longitudinal strength",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Naval Architecture",
+        "division": "18",
+        "priority": "High",
+        "status": "Active",
+        "description": "Naval Architecture Services is provided by our team of Naval Architects and Consultants, who are a multi shift service facility keeping our doors always open for the international marine community for round the clock consultancy and trouble shooting for the shipping and offshore industry <br/>  Our Consultancy Services Include: <br/>  - Design And Design/fabrication Drawings For New Build Ships <br/>  - Double hull conversions for tankers <br/>  - Conversion Design and Drawings <br/>  - Pipelay/ Accommodation Barges <br/>  - Diving Support Vessels <br/>  - Well Stimulation Vessels <br/>  - Fire Fighting Vessels <br/>  - Anchor Handling/tugs <br/>  - Tankers <br/>  - IBC Code Chemical Carriers <br/>  - Load-out Calculations Including Ballasting, Sea-fastening and Stability <br/>  - Structural Design and Analysis <br/>  - Marine Software Consultancy <br/>  - Finite Element Analysis <br/>  - Piping Isometric and Spool Generation <br/>  - Inclining Experiment and Stability Booklets <br/>  - Damage Stability <br/>   - Fire and Safety Plans / Safety Manuals <br/>  - Computerized Tank Calibration <br/>  - Tonnage Calculation <br/>  - Load Line and Free board Calculation/ Surveys <br/>  - International Safety Management (ISM) Manuals and Implementation",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Engineering Services",
+        "division": "18",
+        "priority": "High",
+        "status": "Active",
+        "description": "Engineering Services for designs, refurbishments and conversions of marine, offshore and industries structures and systems is taken care of by our experienced team of Engineers in various disciplines including Marine, Electrical, Instrumentation, Shipbuilding, Piping and Mechanical fields. <br/>  - Structural Design and Analysis <br/>  - Finite Element Analysis <br/>  - Electrical and Instrumentation System Design: New design/ Modification <br/>  - New Design / Conversions <br/>  - Independent Review of Transportation and Installation Engineering <br/>  - Project Engineering support at Fabrication yards <br/>  - Machinery and Piping System Designs for New Build Ships and Conversion : <br/>   1. Double Hull Conversions <br/>   2. New IBC Code Conversion <br/>   3. Conversion to Well Stimulation vessels <br/>   4. Conversion to Dividing Support vessels <br/>   5. Tanker to Bulk carrier Conversions <br/>  - Reverse engineering Analysis and Calculations <br/>  - Re Scantling calculations.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "New Building Project Management",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for New Building Project Management from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Reactivation Project Management",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Reactivation Project Management from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Offshore Up-gradation Projects",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Offshore Up-gradation Projects from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Owners Representative",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Owners Representatives from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Drydocking Superintendence",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Dry docking Superintendence from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Project Personnel",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Project Personal from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Acquisition Surveys",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Acquisition Surveys from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": " P and I Surveys",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for P and I Surveys from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "UAE Flag Registration Surveys",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for UAE Flag Registration Surveys from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Pre purchase Surveys",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries MArine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Pre-Purchase Surveys from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Marine Expert Witness Courts",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Marine Expert Witness Court from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Sustainability Surveys",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Sustainability Surveys from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Technical Documentation and Manuals",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Technical Documentation and Reviews from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Audit and Business Process Review",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Audit and Business Process Review from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Asset Integrity Management",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Assets Integrity Management from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": " Feasibility Studies",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Feasibility Studies from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Due diligence and Market Research",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Due Diligence and Market Research from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": " FEED Engineering",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for FEED Engineering from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Safety and Risk Assessments",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Safety and Risk Assessments from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Contracts Reviews",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Contracts Reviews from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Techno-Legal Affairs",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Techno-Legal Affairs from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Marine Operations Manuals Documentation",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Marine Operations Manuals Documentation from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "SOLAS/MARPOL Compliance Checks",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for SOLAS/MARPOL Compliance Checks from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "Planned Maintenance Protocols",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Planned Maintenance Protocols from concept stage to its delivery.",
+        "url": "www.ariesmar.com"
+      },
+      {
+        "name": "3D Visualisation",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for 3D Visualisation from concept stage to its delivery.",
+        "url": " "
+      },
+      {
+        "name": "Project Cargo Supervision",
+        "division": "9",
+        "priority": "High",
+        "status": "Active",
+        "description": "Project Management, Documentation and Audit Services Aries Marine L.L.C has built a reputation for excellence in Project Management, Documentation and Audit Services for Marine and Offshore sectors.<br/>Managed by an experienced team comprising of Site Managers, Rig Managers, Construction Superintendents, Naval Architects, Marine Engineers, Production Engineers, E and I Engineers, HVAC and L.Q Engineers, Planning Engineers, HSE Advisor's, Document Controllers, Commissioning Engineers<br/>- Aries Marine provides solution for Project Cargo Supervision from concept stage to its delivery.",
+        "url": " "
+      },
+      {
+        "name": "AIMRI",
+        "division": "19",
+        "priority": "High",
+        "status": "Active",
+        "description": "AIMRI is a premier i-university imparting high quality education through a comprehensive , well knit and most advanced course structure, to equip the young aspirants with skills to enhance their personality and to realize their ambitions.",
+        "url": " "
+      },
+      {
+        "name": "Octopian Boy",
+        "division": "1",
+        "priority": "High",
+        "status": "Active",
+        "description": "Octopian Boy, the fictitious character created for the movie, inspired by PAUL - the octopus, has been branded by a leading toy maker.",
+        "url": " "
+      }
+    ]
+  }

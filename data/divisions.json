@@ -1,0 +1,88 @@
+{
+    "division": [
+      {
+        "divisionId": "1",
+        "divisionName": "Production House"
+      },
+      {
+        "divisionId": "2",
+        "divisionName": "Software Solution",
+        "divisionUrl": "http://www.ariesesolutions.com/"
+      },
+      {
+        "divisionId": "3",
+        "divisionName": "Exclusive Research and Development Services"
+      },
+      {
+        "divisionId": "4",
+        "divisionName": "Event Management Services"
+      },
+      {
+        "divisionId": "5",
+        "divisionName": "Film Festival"
+      },
+      {
+        "divisionId": "6",
+        "divisionName": "Publications"
+      },
+      {
+        "divisionId": "7",
+        "divisionName": "Aries Marine"
+      },
+      {
+        "divisionId": "8",
+        "divisionName": "Creative Agency Services",
+        "divisionUrl": "http://www.ariescreations.com/"
+      },
+      {
+        "divisionId": "9",
+        "divisionName": "Project Management, Documentation and Audit Services"
+      },
+      {
+        "divisionId": "10",
+        "divisionName": "Tourism"
+      },
+      {
+        "divisionId": "11",
+        "divisionName": "Legal Consultancy"
+      },
+      {
+        "divisionId": "12",
+        "divisionName": "Aries Group",
+        "divisionUrl": "http://www.ariesgroup.ae/"
+      },
+      {
+        "divisionId": "13",
+        "divisionName": "Interior Designing & Architectural Services"
+      },
+      {
+        "divisionId": "14",
+        "divisionName": "Ultrasonic Thickness Gauging",
+        "divisionUrl": "http://www.ariesmar.com/"
+      },
+      {
+        "divisionId": "15",
+        "divisionName": "Rope Access Specialists",
+        "divisionUrl": "http://www.ariesmar.com/"
+      },
+      {
+        "divisionId": "16",
+        "divisionName": "Non Destructive Testing",
+        "divisionUrl": "http://www.ariesmar.com/"
+      },
+      {
+        "divisionId": "17",
+        "divisionName": "Offshore Engineering",
+        "divisionUrl": "http://www.ariesmar.com/"
+      },
+      {
+        "divisionId": "18",
+        "divisionName": "Design Counsultancy",
+        "divisionUrl": "http://www.ariesmar.com/"
+      },
+      {
+        "divisionId": "19",
+        "divisionName": "Education and Training"
+      }
+    ]
+  }
